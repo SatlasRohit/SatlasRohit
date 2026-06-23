@@ -8,7 +8,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 🎓 B.E 2nd Year CSE
+- 🎓 B.E 3rd Year CSE
 - 💡 Interested in **Web Development & Problem Solving**
 - 🌱 Currently learning **DSA & Full Stack Development**
 - 🎯 Goal: Become a **Software Developer**
